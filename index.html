@@ -82,23 +82,17 @@
 
 </div>
 
+<script src="schools.js"></script>
+
 <script>
-const schools = {
-  "M01001": {
-    nama: "SRA JAIM AYER BAROK",
-    daerah: "JASIN",
-    negeri: "MELAKA"
-  }
-};
-
 const params = new URLSearchParams(window.location.search);
-const kod = params.get("kod");
+const kod = (params.get("kod") || "").trim();
 
-if (schools[kod]) {
-  document.getElementById("sekolah").textContent = schools[kod].nama;
+if (window.SCHOOLS && window.SCHOOLS[kod]) {
+  document.getElementById("sekolah").textContent = window.SCHOOLS[kod].nama;
   document.getElementById("kod").textContent = kod;
-  document.getElementById("daerah").textContent = schools[kod].daerah;
-  document.getElementById("negeri").textContent = schools[kod].negeri;
+  document.getElementById("daerah").textContent = window.SCHOOLS[kod].daerah;
+  document.getElementById("negeri").textContent = window.SCHOOLS[kod].negeri;
 } else {
   document.getElementById("sekolah").textContent = "Kod sekolah tidak dijumpai";
 }
