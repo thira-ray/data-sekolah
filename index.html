@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kertas Peperiksaan</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: white;
+      color: black;
+      padding: 30px;
+    }
+
+    .template {
+      max-width: 650px;
+      margin: auto;
+    }
+
+    h2 {
+      margin-bottom: 25px;
+    }
+
+    table {
+      font-size: 18px;
+    }
+
+    td {
+      padding: 4px 10px;
+    }
+
+    td:first-child {
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="template">
+
+  <h2>KERTAS PEPERIKSAAN</h2>
+
+  <table>
+    <tr>
+      <td>Mata Pelajaran</td>
+      <td>:</td>
+      <td>AL-QURAN</td>
+    </tr>
+
+    <tr>
+      <td>Kod Kertas</td>
+      <td>:</td>
+      <td>UPKK01</td>
+    </tr>
+
+    <tr>
+      <td>Bekalan untuk</td>
+      <td>:</td>
+      <td id="sekolah"></td>
+    </tr>
+
+    <tr>
+      <td>Kod Pusat</td>
+      <td>:</td>
+      <td id="kod"></td>
+    </tr>
+
+    <tr>
+      <td>Daerah</td>
+      <td>:</td>
+      <td id="daerah"></td>
+    </tr>
+
+    <tr>
+      <td>Negeri</td>
+      <td>:</td>
+      <td id="negeri"></td>
+    </tr>
+  </table>
+
+</div>
+
+<script>
+const schools = {
+  "M01001": {
+    nama: "SRA JAIM AYER BAROK",
+    daerah: "JASIN",
+    negeri: "MELAKA"
+  }
+};
+
+const params = new URLSearchParams(window.location.search);
+const kod = params.get("kod");
+
+if (schools[kod]) {
+  document.getElementById("sekolah").textContent = schools[kod].nama;
+  document.getElementById("kod").textContent = kod;
+  document.getElementById("daerah").textContent = schools[kod].daerah;
+  document.getElementById("negeri").textContent = schools[kod].negeri;
+} else {
+  document.getElementById("sekolah").textContent = "Kod sekolah tidak dijumpai";
+}
+</script>
+
+</body>
+</html>
