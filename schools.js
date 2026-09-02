@@ -77,7 +77,7 @@ window.SCHOOLS = {
   "DBA9011": {"nama":"SK PENDOK","daerah":"JELI","negeri":"KELANTAN"},
   "DBA9012": {"nama":"SK SUNGAI LONG","daerah":"JELI","negeri":"KELANTAN"},
   "DBA9013": {"nama":"SK JELI 2","daerah":"JELI","negeri":"KELANTAN"},
-  "DBA9015": {"nama":"SK PASIR DUSUN","daerah":"JELI","negeri":"KELANTAN"}
+  "DBA9015": {"nama":"SK PASIR DUSUN","daerah":"JELI","negeri":"KELANTAN"},
   "DBA1040": {"nama":"SEK KEB AB HADI","daerah":"KOTA BHARU","negeri":"KELANTAN"},
   "DBA1041": {"nama":"SEK KEB KEM, PENGKALAN CHEPA","daerah":"KOTA BHARU","negeri":"KELANTAN"},
   "DBA1042": {"nama":"SEK KEB BANGGOL SAMAN","daerah":"KOTA BHARU","negeri":"KELANTAN"},
