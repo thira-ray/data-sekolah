@@ -834,4 +834,5 @@ Object.assign(window.SCHOOLS, {
   "XYT6050 / S42018": {"nama":"KAFA MASJID KG. MEMBATU","daerah":"TUNGKU","negeri":"SABAH"},
 
   "SIMPANAN-TUNGKU": {"nama":"ILIM KAMPUS LAHAD DATU KM 28 JALAN LAHAD DATU TUNGKU","daerah":"TUNGKU","negeri":"SABAH"},
+  
 });
