@@ -1,3 +1,15 @@
 Object.assign(window.SCHOOLS, {
-
+  "XBA5043/S01003": {"nama":"KAFA KG. MALIYU BANGGI","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5035/S01016": {"nama":"KAFA KG. DAMARAN BANGGI","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5022/S01005": {"nama":"KAFA KG. BATU PUTIH BANGGI","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5024/S01007": {"nama":"KAFA KG. KOBONG LAUT BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5025/S01008": {"nama":"KAFA KG. LOK TUHOG BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5027/S01009": {"nama":"KAFA AGROPOLITAN BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5028/S01010": {"nama":"KAFA KG. BATU LAYAR BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5042/S01019": {"nama":"KAFA KG. LUMAIS BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5031/S01012": {"nama":"KAFA KG. LIMBUAK LAUT BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5032/S01013": {"nama":"KAFA KG. TIMBANG DAYANG BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5034/S01015": {"nama":"KAFA KG. LAKSIAN BANGGI","daerah":"BANGGI","negeri":"SABAH"},
+  "XYT5037/S01017": {"nama":"KAFA KG. TANJUNG MANAWALI BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
+  "SIMPANAN-BANGGI": {"nama":"SIMPANAN DAERAH","daerah":"BANGGI","negeri":"SABAH"},
 });
