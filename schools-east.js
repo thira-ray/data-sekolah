@@ -28,7 +28,7 @@ Object.assign(window.SCHOOLS, {
   "XYT6015  / S02016": {"nama":"BANGUNAN KHAS KAFA KG NUKAHAN","daerah":"BEAUFORT 1","negeri":"SABAH"},
   "XYT6016  / S02017": {"nama":"KAFA KG. LUMAT","daerah":"BEAUFORT 1","negeri":"SABAH"},
   "XYT6017 / S02018": {"nama":"BANGUNAN KHAS KAFA KG MUHIBBAH BARU","daerah":"BEAUFORT 1","negeri":"SABAH"},
-  "SIMPANAN-BEAUFORT-1": {"nama":"SIMPANAN DAERAH","daerah":"BEAUFORT 1","negeri":"SABAH"},
+  "SIMPANAN-BEAUFORT-1": {"nama":"PEJABAT PERHUBUNGAN KAFA DAERAH BEAUFORT, D/A PEJABAT DAERAH BEAUFORT","daerah":"BEAUFORT 1","negeri":"SABAH"},
     "XBA6013 / S03001": {"nama":"KAFA SK KABAJANG","daerah":"BEAUFORT 2","negeri":"SABAH"},
   "XBA6019  / S03002": {"nama":"KAFA SK KEPAWA","daerah":"BEAUFORT 2","negeri":"SABAH"},
   "XBA6020 / S03003": {"nama":"KAFA SK BINTUKA","daerah":"BEAUFORT 2","negeri":"SABAH"},
