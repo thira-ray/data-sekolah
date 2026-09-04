@@ -64,7 +64,8 @@ if (window.SCHOOLS && window.SCHOOLS[kod]) {
   const data = window.SCHOOLS[kod];
 
   document.getElementById("rujukan").textContent = data.rujukan || "";
-  document.getElementById("kod").textContent = kod;
+  document.getElementById("kod").textContent =
+  kod.startsWith("SIMPANAN-") ? "" : kod;
   document.getElementById("sekolah").textContent = data.nama || "";
   document.getElementById("daerah").textContent = data.daerah || "";
   document.getElementById("negeri").textContent = data.negeri || "";
