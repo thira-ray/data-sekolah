@@ -13,4 +13,20 @@ Object.assign(window.SCHOOLS, {
 "XYT5037/S01017": {"rujukan":"12","nama":"KAFA KG. TANJUNG MANAWALI BANGGI","negeri":"SABAH","daerah":"BANGGI"},
 "SIMPANAN-BANGGI": {"rujukan":"13","nama":"SIMPANAN DAERAH","negeri":"SABAH","daerah":"BANGGI"},
 
+  "Q03001": {"rujukan":"1","nama":"SEKOLAH KEBANGSAAN (A) MIS SRI AMAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03002": {"rujukan":"2","nama":"SEKOLAH KEBANGSAAN ABANG AING SRI AMAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03003": {"rujukan":"3","nama":"SEKOLAH KEBANGSAAN SRI AMAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03004": {"rujukan":"4","nama":"SJK CHUNG HUA SRI AMAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03005": {"rujukan":"5","nama":"SEKOLAH KEBANGSAAN TEMUDOK KEM","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03006": {"rujukan":"6","nama":"SEKOLAH KEBANGSAAN KEM PAKIT","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03007": {"rujukan":"7","nama":"SEKOLAH KEBANGSAAN BAKONG SRI AMAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03008": {"rujukan":"8","nama":"SEKOLAH KEBANGSAAN GRAN/STUMBIN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03009": {"rujukan":"9","nama":"SEKOLAH KEBANGSAAN TANJUNG BIJAT","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03010": {"rujukan":"10","nama":"SEKOLAH KEBANGSAAN LELA PAHLAWAN","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03011": {"rujukan":"11","nama":"SEKOLAH KEBANGSAAN PULAU SEDUKU","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03012": {"rujukan":"12","nama":"SEKOLAH KEBANGSAAN MELUGU","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03013": {"rujukan":"13","nama":"SEKOLAH KEBANGSAAN ENGKILILI NO. 1","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"Q03014": {"rujukan":"14","nama":"SEKOLAH KEBANGSAAN ST LUKE","negeri":"SARAWAK","daerah":"SRI AMAN"},
+"SIMPANAN-SRI-AMAN": {"rujukan":"15","nama":"SIMPANAN DAERAH","negeri":"SARAWAK","daerah":"SRI AMAN"},
+
 });
