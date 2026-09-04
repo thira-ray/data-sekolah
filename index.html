@@ -3,101 +3,72 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kertas Peperiksaan</title>
+ <h1>KERTAS PEPERIKSAAN</h1>
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: white;
-      color: black;
-      padding: 30px;
-    }
+<div class="info">
+  <div class="row">
+    <span class="label">Mata Pelajaran</span>
+    <span class="colon">:</span>
+    <span>AL-QURAN</span>
+  </div>
 
-    .template {
-      max-width: 650px;
-      margin: auto;
-    }
+  <div class="row">
+    <span class="label">Kod Kertas</span>
+    <span class="colon">:</span>
+    <span>UPKK01</span>
+  </div>
 
-    h2 {
-      margin-bottom: 25px;
-    }
+  <br>
 
-    table {
-      font-size: 18px;
-    }
+  <div class="row">
+    <span class="label">No. Rujukan</span>
+    <span class="colon">:</span>
+    <span id="rujukan"></span>
+  </div>
 
-    td {
-      padding: 4px 10px;
-    }
+  <div class="row">
+    <span class="label">Kod Pusat</span>
+    <span class="colon">:</span>
+    <span id="kod"></span>
+  </div>
 
-    td:first-child {
-      font-weight: bold;
-    }
-  </style>
-</head>
+  <div class="row">
+    <span class="label">Bekalan untuk</span>
+    <span class="colon">:</span>
+    <span id="sekolah"></span>
+  </div>
 
-<body>
+  <br>
 
-<div class="template">
+  <div class="row">
+    <span class="label">Daerah</span>
+    <span class="colon">:</span>
+    <span id="daerah"></span>
+  </div>
 
-  <h2>KERTAS PEPERIKSAAN</h2>
-
-  <table>
-    <tr>
-      <td>Mata Pelajaran</td>
-      <td>:</td>
-      <td>AL-QURAN</td>
-    </tr>
-
-    <tr>
-      <td>Kod Kertas</td>
-      <td>:</td>
-      <td>UPKK01</td>
-    </tr>
-
-    <tr>
-      <td>Bekalan untuk</td>
-      <td>:</td>
-      <td id="sekolah"></td>
-    </tr>
-
-    <tr>
-      <td>Kod Pusat</td>
-      <td>:</td>
-      <td id="kod"></td>
-    </tr>
-
-    <tr>
-      <td>Daerah</td>
-      <td>:</td>
-      <td id="daerah"></td>
-    </tr>
-
-    <tr>
-      <td>Negeri</td>
-      <td>:</td>
-      <td id="negeri"></td>
-    </tr>
-  </table>
-
+  <div class="row">
+    <span class="label">Negeri</span>
+    <span class="colon">:</span>
+    <span id="negeri"></span>
+  </div>
 </div>
 
-<script src="schools.js?v=2"></script>
-<script src="schools-east.js?v=1"></script>
-  
+  <script src="schools.js?v=3"></script>
+<script src="schools-east.js?v=2"></script>
+
 <script>
 const params = new URLSearchParams(window.location.search);
 const kod = (params.get("kod") || "").trim();
 
 if (window.SCHOOLS && window.SCHOOLS[kod]) {
-  document.getElementById("sekolah").textContent = window.SCHOOLS[kod].nama;
+  const data = window.SCHOOLS[kod];
+
+  document.getElementById("rujukan").textContent = data.rujukan || "";
   document.getElementById("kod").textContent = kod;
-  document.getElementById("daerah").textContent = window.SCHOOLS[kod].daerah;
-  document.getElementById("negeri").textContent = window.SCHOOLS[kod].negeri;
+  document.getElementById("sekolah").textContent = data.nama || "";
+  document.getElementById("daerah").textContent = data.daerah || "";
+  document.getElementById("negeri").textContent = data.negeri || "";
 } else {
   document.getElementById("sekolah").textContent = "Kod sekolah tidak dijumpai";
 }
 </script>
-
-</body>
-</html>
