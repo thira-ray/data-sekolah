@@ -11,7 +11,7 @@ Object.assign(window.SCHOOLS, {
   "XYT5032/S01013": {"nama":"KAFA KG. TIMBANG DAYANG BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
   "XYT5034/S01015": {"nama":"KAFA KG. LAKSIAN BANGGI","daerah":"BANGGI","negeri":"SABAH"},
   "XYT5037/S01017": {"nama":"KAFA KG. TANJUNG MANAWALI BANGGI ","daerah":"BANGGI","negeri":"SABAH"},
-  "SIMPANAN-BANGGI": {"nama":"KAFA KG. BATU PUTIH BANGGI","daerah":"BANGGI","negeri":"SABAH"},
+  "SIMPANAN-BANGGI": {"nama":"SIMPANAN DAERAH","daerah":"BANGGI","negeri":"SABAH"},
     "XYP6001 / S02001": {"nama":"KAFA SAN PEKAN BEAUFORT","daerah":"BEAUFORT 1","negeri":"SABAH"},
   "XYP6003 / S02002": {"nama":"KAFA SAN KG.LUBAK BEAUFORT","daerah":"BEAUFORT 1","negeri":"SABAH"},
   "XYP6005 / S02003": {"nama":"KAFA SAN KG. TAKULI","daerah":"BEAUFORT 1","negeri":"SABAH"},
