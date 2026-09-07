@@ -777,6 +777,6 @@ window.SCHOOLS = {
 "J03116": {"rujukan":"115","nama":"SEKOLAH RENDAH ISLAM (SRITI) AL-AZHAR, SRI GADING","negeri":"JOHOR","daerah":"BATU PAHAT"},
 "J03117": {"rujukan":"116","nama":"MAAHAD INTEGRASI TAHFIZ AL-FATHI","negeri":"JOHOR","daerah":"BATU PAHAT"},
 "J03118": {"rujukan":"117","nama":"SEKOLAH RENDAH ISLAM BESTARI AL-MUHSININ","negeri":"JOHOR","daerah":"BATU PAHAT"},
-"SIMPANAN-BATU-PAHAT": {"rujukan":"118","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"BATU PAHAT"},  
+"SIMPANAN-BATU-PAHAT": {"rujukan":"118","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"BATU PAHAT"}, 
   
 };
