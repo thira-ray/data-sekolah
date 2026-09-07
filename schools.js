@@ -1019,9 +1019,9 @@ window.SCHOOLS = {
 "J07005": {"rujukan":"71","nama":"SEKOLAH AGAMA DESA PULADA","negeri":"JOHOR","daerah":"KOTA TINGGI"},
 "SIMPANAN-KOTA-TINGGI": {"rujukan":"72","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"KOTA TINGGI"},
 
-"JYP4010": {"rujukan":"1","nama":"SEK. AGAMA SEMANYIR","negeri":"JOHOR","daerah":"MERSING"},
+"JYP4010": {"rujukan":"1","nama":"SEKOLAH AGAMA SEMANYIR","negeri":"JOHOR","daerah":"MERSING"},
 "JJJ4001": {"rujukan":"2","nama":"SEKOLAH RENDAH ISLAM (SRITI) AN NUR","negeri":"JOHOR","daerah":"MERSING"},
-"JYP4015": {"rujukan":"3","nama":"SEK. AGAMA SRI PANTAI","negeri":"JOHOR","daerah":"MERSING"},
+"JYP4015": {"rujukan":"3","nama":"SEKOLAH AGAMA SRI PANTAI","negeri":"JOHOR","daerah":"MERSING"},
 "JJJ4002": {"rujukan":"4","nama":"SEKOLAH RENDAH (SRITI) AT TAQWA","negeri":"JOHOR","daerah":"MERSING"},
 "JYA4031": {"rujukan":"5","nama":"SEKOLAH RENDAH AGAMA BERSEPADU (SRAB) MERSING","negeri":"JOHOR","daerah":"MERSING"},
 "JYP4001": {"rujukan":"6","nama":"SEKOLAH AGAMA BUKIT TIMBALAN","negeri":"JOHOR","daerah":"MERSING"},
