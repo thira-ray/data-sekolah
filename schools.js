@@ -659,4 +659,5 @@ window.SCHOOLS = {
 "J02060": {"rujukan":"58","nama":"SEKOLAH AGAMA TAMAN SRI PAGOH, MUAR","negeri":"JOHOR","daerah":"MUAR"},
 "J02061": {"rujukan":"59","nama":"SEKOLAH RENDAH ISLAM AT-TANWIRIAH (TAHFIZ)","negeri":"JOHOR","daerah":"MUAR"},
 "SIMPANAN-MUAR": {"rujukan":"60","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"MUAR"},
+
 };
