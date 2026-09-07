@@ -476,6 +476,7 @@ window.SCHOOLS = {
 "DBC6356": {"rujukan":"35","nama":"SEK JENIS KEB (C) YUK TSE","negeri":"KELANTAN","daerah":"TUMPAT"},
 "DJJ6001": {"rujukan":"36","nama":"SEKOLAH RENDAH INTEGRASI TERAS ISLAM IBADURRAHMAN","negeri":"KELANTAN","daerah":"TUMPAT"},
 "SIMPANAN-TUMPAT": {"rujukan":"37","nama":"SIMPANAN DAERAH","negeri":"KELANTAN","daerah":"TUMPAT"},
+
 "J01001 ": {"rujukan":"1","nama":"SEKOLAH AGAMA SUNGAI TIRAM","negeri":"JOHOR","daerah":"JOHOR BAHRU"},
 "J01002 ": {"rujukan":"2","nama":"SEKOLAH AGAMA TAMAN BUKIT TIRAM","negeri":"JOHOR","daerah":"JOHOR BAHRU"},
 "J01003 ": {"rujukan":"3","nama":"SEKOLAH AGAMA BANDAR TIRAM","negeri":"JOHOR","daerah":"JOHOR BAHRU"},
