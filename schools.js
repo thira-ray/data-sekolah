@@ -1054,5 +1054,5 @@ window.SCHOOLS = {
 "JYQ4001": {"rujukan":"33","nama":"SEKOLAH RENDAH AGAMA ALKHAIRIAH MERSING","negeri":"JOHOR","daerah":"MERSING"},
 "JZH4002": {"rujukan":"34","nama":"MAAHAD TAHFIZ AL KHAIRIAH","negeri":"JOHOR","daerah":"MERSING"},
 "SIMPANAN-MERSING": {"rujukan":"35","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"MERSING"},
-  
+
 };
