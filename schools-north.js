@@ -885,7 +885,7 @@ Object.assign(window.SCHOOLS, {
 "A10006": {"rujukan":"4","nama":"MADRASAH AL DINIAH AL MUKHTARIAH","negeri":"PERAK","daerah":"PENGKALAN HULU"},
 "A10003": {"rujukan":"5","nama":"MADRASAH KHAIRIAH ISLAMIAH  ","negeri":"PERAK","daerah":"PENGKALAN HULU"},
 "A10001": {"rujukan":"6","nama":"MADRASAH RAUDZATUL ULUM  ","negeri":"PERAK","daerah":"PENGKALAN HULU"},
-"A10005": {"rujukan":"7","nama":"MADRASATUL HIDAYAH KG SELARONG          ","negeri":"PERAK","daerah":"PENGKALAN HULU"},
+"A10005": {"rujukan":"7","nama":"MADRASATUL HIDAYAH KG SELARONG","negeri":"PERAK","daerah":"PENGKALAN HULU"},
 "A10002": {"rujukan":"8","nama":"MADRASAH AL ISLAH  ","negeri":"PERAK","daerah":"PENGKALAN HULU"},
 "SIMPANAN-PENGKALAN-HULU": {"rujukan":"9","nama":"SIMPANAN DAERAH","negeri":"PERAK","daerah":"PENGKALAN HULU"},
 
