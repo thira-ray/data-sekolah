@@ -887,5 +887,5 @@ window.SCHOOLS = {
 "J05049": {"rujukan":"49","nama":"SEKOLAH RENDAH ISLAM AS-SYDDIQ","negeri":"JOHOR","daerah":"KLUANG"},
 "J05051": {"rujukan":"50","nama":"SEKOLAH RENDAH ISLAM (SRITI) AL UKHUWWAH KLUANG","negeri":"JOHOR","daerah":"KLUANG"},
 "SIMPANAN-KLUANG": {"rujukan":"51","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"KLUANG"},
-  
+
 };
