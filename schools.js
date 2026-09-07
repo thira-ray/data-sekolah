@@ -98,7 +98,20 @@ window.SCHOOLS = {
 "DBC8001": {"rujukan":"29","nama":"SJK C GUA MUSANG","negeri":"KELANTAN","daerah":"GUA MUSANG"},
 "DBA7411": {"rujukan":"30","nama":"SK PASIR LINGGI","negeri":"KELANTAN","daerah":"GUA MUSANG"},
 "SIMPANAN-GUA-MUSANG": {"rujukan":"31","nama":"SIMPANAN DAERAH","negeri":"KELANTAN","daerah":"GUA MUSANG"},
-
-
+"DBA9001": {"rujukan":"1","nama":"SK AYER LANAS","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9002": {"rujukan":"2","nama":"SK BATU MELINTANG","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9003": {"rujukan":"3","nama":"SK BUKIT JERING","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9004": {"rujukan":"4","nama":"SK GEMANG","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9005": {"rujukan":"5","nama":"SK JELI 1","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9006": {"rujukan":"6","nama":"SK KALAI","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9007": {"rujukan":"7","nama":"SK KUALA BALAH","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9008": {"rujukan":"8","nama":"SK KUBOR DATU","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9009": {"rujukan":"9","nama":"SK LEGEH","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9010": {"rujukan":"10","nama":"SK LUBOK BONGOR","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9011": {"rujukan":"11","nama":"SK PENDOK","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9012": {"rujukan":"12","nama":"SK SUNGAI LONG","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9013": {"rujukan":"13","nama":"SK JELI 2","negeri":"KELANTAN","daerah":"JELI"},
+"DBA9015": {"rujukan":"14","nama":"SK PASIR DUSUN","negeri":"KELANTAN","daerah":"JELI"},
+"SIMPANAN-JELI": {"rujukan":"15","nama":"SIMPANAN DAERAH","negeri":"KELANTAN","daerah":"JELI"},
 
 };
