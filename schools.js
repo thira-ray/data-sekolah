@@ -2054,5 +2054,4 @@ window.SCHOOLS = {
 "B09026": {"rujukan":"25","nama":"SRA BANDAR UTAMA BATANG KALI","negeri":"SELANGOR","daerah":"HULU SELANGOR"},
 "B09027": {"rujukan":"26","nama":"SRA HULU RENING","negeri":"SELANGOR","daerah":"HULU SELANGOR"},
 "B09028": {"rujukan":"27","nama":"SRA HULU YAM BHARU","negeri":"SELANGOR","daerah":"HULU SELANGOR"},
-  
 };
