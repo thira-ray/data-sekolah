@@ -1019,4 +1019,22 @@ window.SCHOOLS = {
 "J07005": {"rujukan":"71","nama":"SEKOLAH AGAMA DESA PULADA","negeri":"JOHOR","daerah":"KOTA TINGGI"},
 "SIMPANAN-KOTA-TINGGI": {"rujukan":"72","nama":"SIMPANAN DAERAH","negeri":"JOHOR","daerah":"KOTA TINGGI"},
 
+"PERLIS": {"rujukan":"1","nama":"SIMPANAN NEGERI","negeri":"PERLIS","daerah":""},
+"KEDAH": {"rujukan":"2","nama":"SIMPANAN NEGERI","negeri":"KEDAH","daerah":""},
+"PULAU PINANG": {"rujukan":"3","nama":"SIMPANAN NEGERI","negeri":"PULAU PINANG","daerah":""},
+"PERAK": {"rujukan":"4","nama":"SIMPANAN NEGERI","negeri":"PERAK","daerah":""},
+"SELANGOR": {"rujukan":"5","nama":"SIMPANAN NEGERI","negeri":"SELANGOR","daerah":""},
+"WILAYAH PERSEKUTUAN": {"rujukan":"6","nama":"SIMPANAN NEGERI","negeri":"WILAYAH PERSEKUTUAN","daerah":""},
+"PUTRAJAYA": {"rujukan":"7","nama":"SIMPANAN NEGERI","negeri":"PUTRAJAYA","daerah":""},
+"LABUAN": {"rujukan":"8","nama":"SIMPANAN NEGERI","negeri":"LABUAN","daerah":""},
+"NEGERI SEMBILAN": {"rujukan":"9","nama":"SIMPANAN NEGERI","negeri":"NEGERI SEMBILAN","daerah":""},
+"MELAKA": {"rujukan":"10","nama":"SIMPANAN NEGERI","negeri":"MELAKA","daerah":""},
+"JOHOR": {"rujukan":"11","nama":"SIMPANAN NEGERI","negeri":"JOHOR","daerah":""},
+"PAHANG": {"rujukan":"12","nama":"SIMPANAN NEGERI","negeri":"PAHANG","daerah":""},
+"TERENGGANU": {"rujukan":"13","nama":"SIMPANAN NEGERI","negeri":"TERENGGANU","daerah":""},
+"KELANTAN": {"rujukan":"14","nama":"SIMPANAN NEGERI","negeri":"KELANTAN","daerah":""},
+"SABAH": {"rujukan":"15","nama":"SIMPANAN NEGERI","negeri":"SABAH","daerah":""},
+"SARAWAK": {"rujukan":"16","nama":"SIMPANAN NEGERI","negeri":"SARAWAK","daerah":""},
+"JAKIM": {"rujukan":"17","nama":"SIMPANAN PENGARAH BAHAGIAN PENDIDIKAN JAKIM","negeri":"JAKIM","daerah":""},
+  
 };
