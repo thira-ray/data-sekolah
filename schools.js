@@ -2084,7 +2084,7 @@ window.SCHOOLS = {
 "WPKS011": {"rujukan":"27","nama":"TAHFIZ DARUL FURQAN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 1"},
 "WPKS032": {"rujukan":"28","nama":"SEKOLAH RENDAH INTEGRASI TERAS ISLAM SEGAMBUT","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 1"},
 "WPKS032": {"rujukan":"29","nama":"SEKOLAH RENDAH INTEGRASI TERAS ISLAM (SRITI) BATU MUDA","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 1"},
-"SIMPANAN-1": {"rujukan":"30","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 1"},
+"SIMPANAN-ZON-1": {"rujukan":"30","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 1"},
 
 "WPB001": {"rujukan":"1","nama":"SRA AL-FALAHIAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},
 "WPB002": {"rujukan":"2","nama":"SRA IBNU QAYYIM","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},
@@ -2108,7 +2108,7 @@ window.SCHOOLS = {
 "WPKB011": {"rujukan":"20","nama":"KAFA SA'AD BIN ABI WAQAS","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},
 "WPKS018": {"rujukan":"21","nama":"PUSAT PEMBELAJARAN KAFA FITRAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},
 "WPKS044": {"rujukan":"22","nama":"SEKOLAH RENDAH INTEGRASI TERAS ISLAM ANSORULLAH WANGSA MAJU","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},
-"SIMPANAN-2": {"rujukan":"23","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},  
+"SIMPANAN-ZON-2": {"rujukan":"23","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 2"},  
 
 "WPC001": {"rujukan":"1","nama":"SRA AT-TAUFIQIAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
 "WPC002": {"rujukan":"2","nama":"SRA AL-SHAFIE","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
@@ -2128,7 +2128,7 @@ window.SCHOOLS = {
 "WPKC014": {"rujukan":"16","nama":"KAFA SK COCHRANE PERKASA","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
 "WPKC015": {"rujukan":"17","nama":"KAFA SEKOLAH BIMBINGAN JALINAN KASIH (SBJK)","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
 "WPKS002": {"rujukan":"18","nama":"SEKOLAH RENDAH AGAMA SRI AL-UMMAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
-"SIMPANAN-3": {"rujukan":"19","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
+"SIMPANAN-ZON-3": {"rujukan":"19","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 3"},
 
 "WPC005": {"rujukan":"1","nama":"SRA LUKMAN AL-HAKIM (PULAPOL)","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
 "WPD001": {"rujukan":"2","nama":"SRA JA'AFAR BIN ABI TALIB","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
@@ -2172,7 +2172,7 @@ window.SCHOOLS = {
 "WPKS040": {"rujukan":"40","nama":"SEKOLAH ISLAM HATIMURNI CAWANGAN WANGSA MAJU","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
 "WPKS041": {"rujukan":"41","nama":"PUSAT INTEGRASI KAFA AL-FATHONAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
 "WPKS042": {"rujukan":"42","nama":"SEKOLAH ISLAM HATIMURNI CAWANGAN SRI RAMPAI","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
-"SIMPANAN-4": {"rujukan":"43","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
+"SIMPANAN-ZON-4": {"rujukan":"43","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 4"},
 
 "WPC010": {"rujukan":"1","nama":"SRA AL-RIDHWAN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
 "WPE001": {"rujukan":"2","nama":"SRA AL-SYAKIRIN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
@@ -2219,7 +2219,7 @@ window.SCHOOLS = {
 "WPKS037": {"rujukan":"43","nama":"MAAHAD HAMALATUL QURAN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
 "WPKS039": {"rujukan":"44","nama":"SEKOLAH RENDAH ISLAM NUR KHALIFAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
 "WPKS043": {"rujukan":"45","nama":"QUEENSVILLE INTEGRATED ISLAMIC SCHOOL (QIIS)","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
-"SIMPANAN-5": {"rujukan":"46","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
+"SIMPANAN-ZON-5": {"rujukan":"46","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 5"},
 
 "WPA009": {"rujukan":"1","nama":"SRA SAIDINA UMAR AL-KHATTAB","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
 "WPC011": {"rujukan":"2","nama":"SRA AL-HIDAYAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
@@ -2241,7 +2241,7 @@ window.SCHOOLS = {
 "WPKF009": {"rujukan":"18","nama":"KAFA SK JALAN BELLAMY","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
 "WPKS001": {"rujukan":"19","nama":"SEKOLAH KAFA AZZAHRAWAN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
 "WPKS033": {"rujukan":"20","nama":"SEKOLAH RENDAH AGAMA AL WARDAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
-"SIMPANAN-6": {"rujukan":"21","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
+"SIMPANAN-ZON-6": {"rujukan":"21","nama":"SIMPANAN DAERAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON 6"},
 
 "WPE014": {"rujukan":"1","nama":"SRA AL-FURQAN","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON PUTRAJAYA"},
 "WPE016": {"rujukan":"2","nama":"SRA AL-NAJAH","negeri":" WILAYAH PERSEKUTUAN","daerah":"ZON PUTRAJAYA"},
