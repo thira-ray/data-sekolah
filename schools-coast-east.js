@@ -731,4 +731,12 @@ Object.assign(window.SCHOOLS, {
 "C10027": {"rujukan":"26","nama":"SEK KEB SRI BUNTAR","negeri":"PAHANG","daerah":"BERA"},
 "C12013": {"rujukan":"27","nama":"SK BATU BOR","negeri":"PAHANG","daerah":"BERA"},
 "SIMPANAN-BERA": {"rujukan":"28","nama":"SIMPANAN DAERAH","negeri":"PAHANG","daerah":"BERA"},  
+
+"C01001": {"rujukan":"1","nama":"SK KAMPUNG RAJA","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"C01002": {"rujukan":"2","nama":"SAR KAFA AD-DINIAH TAMAN SEDIA","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"C01003": {"rujukan":"3","nama":"SK BRINCHANG","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"C01004": {"rujukan":"4","nama":"SK CONVENT","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"C01006": {"rujukan":"5","nama":"SK RINGLET","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"C01007": {"rujukan":"6","nama":"SK TANAH RATA","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},
+"SIMPANAN-CAMERON-HIGHLANDS": {"rujukan":"7","nama":"SIMPANAN DAERAH","negeri":"PAHANG","daerah":"CAMERON HIGHLANDS"},  
 });
