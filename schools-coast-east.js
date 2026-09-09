@@ -600,7 +600,7 @@ Object.assign(window.SCHOOLS, {
 "C10010": {"rujukan":"27","nama":"MADRASAH TARBIAH ISLAMIAH","negeri":"PAHANG","daerah":"BENTONG"},
 "SIMPANAN-BENTONG": {"rujukan":"28","nama":"SIMPANAN DAERAH","negeri":"PAHANG","daerah":"BENTONG"},
 
-  "C10001": {"rujukan":"1","nama":"SAR (F) BUKIT KEPAYANG","negeri":"PAHANG","daerah":"BERA"},
+"C10001": {"rujukan":"1","nama":"SAR (F) BUKIT KEPAYANG","negeri":"PAHANG","daerah":"BERA"},
 "C10002": {"rujukan":"2","nama":"SAR (F) BUKIT MENDI","negeri":"PAHANG","daerah":"BERA"},
 "C10003": {"rujukan":"3","nama":"SEKOLAH AGAMA RAKYAT FELDA BUKIT PUCHONG","negeri":"PAHANG","daerah":"BERA"},
 "C10004": {"rujukan":"4","nama":"SEKOLAH AGAMA RAKYAT (F) KUMAI","negeri":"PAHANG","daerah":"BERA"},
